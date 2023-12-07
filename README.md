@@ -3,7 +3,7 @@ Based on the additional details from your PDF, here's an updated `README.md` for
 
 ---
 
-# CNN Models for Image Classification - CSC 578 Assignment 7
+
 
 ## Author
 Jashwanth Neeli
